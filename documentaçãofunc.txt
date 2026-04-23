@@ -1,0 +1,23 @@
+SEGREDOS DO CADERNO
+Bem-vindo ao sistema de gestão da rede Segredo do Caderno. Este é um simulador de mercado negro de informações onde o conhecimento é a moeda de troca mais valiosa.
+
+Cada colaborador tem sua branch e estrutura dentro do git.
+Tales Modifications: alterações dentro do código fonte do game.
+ReisGui: Main do projeto, criador do repositorio no git.
+
+ 🕵️ Detalhes do Sistema (Regras de Negócio)
+
+O sistema "Segredo do Caderno" funciona através do cadastro de **Cursos de Extração de Informação**. Cada item registado deve conter obrigatoriamente:
+
+1.  **Nome do Curso:** O título da técnica de espionagem ou o nome do segredo a ser comercializado.
+2.  **Carga Horária:** O tempo de estudo necessário para dominar a técnica ou a "validade" do segredo.
+3.  **Descrição:** Um resumo detalhado do que será aprendido ou o nível de confidencialidade da informação.
+
+### Exemplo de Dados:
+
+| Nome do Curso | Carga Horária | Descrição |
+| :--- | :--- | :--- |
+| **Escuta de Corredor** | 5h | Técnicas para captar segredos sem ser notado. |
+| **Criptografia de Bilhetes** | 12h | Como usar códigos que apenas os membros da rede entendem. |
+| **Venda de Gabaritos** | 2h | Estratégias de negociação de alto risco e alto valor. |
+
